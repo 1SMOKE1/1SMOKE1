@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1SMOKE1
-- 👀 I’m interested in Front-End developing.
-- 🌱 I’m currently learning React, and JS, SQL🧔
+- 👀 I’m interested in WEB developing.
+- 🌱 I’m currently learning NEST.JS, and ANGULAR 2+, PostgreSQL🧔
 - 💞️ I’m looking to collaborate on GOOGLE and YOUTUBE)💞️ 
 - 📫 How to reach me: kamyshan19@gmail.com
 
